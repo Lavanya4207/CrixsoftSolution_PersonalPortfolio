@@ -23,7 +23,7 @@ This project is a Personal Portfolio Website developed using HTML and CSS. It sh
 
 ## Output
 
-Portfolio-output.png
+![Portfolio Output](Portfolio-output.png)
 
 ## Author
 Lakshmilavanya
